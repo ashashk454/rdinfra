@@ -47,6 +47,16 @@ body {
   color: var(--white);
   font-weight: 700;
   font-size: 1.2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.brand-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  display: block;
 }
 
 .nav-links {
