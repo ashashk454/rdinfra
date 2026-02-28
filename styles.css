@@ -240,6 +240,10 @@ h3 {
   display: block;
 }
 
+.project-card {
+  overflow: hidden;
+}
+
 
 .contact-list a {
   color: #ff9aa5;
